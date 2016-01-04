@@ -5,7 +5,7 @@
     callsigns = {
     	"Ale Stegenga": "PD1ANS",
 		"André Hulsbergen": "PD2ATG",
-    	"Ascal Cardio": "NL1PRC",
+    	"Ascal Cardio": "NL2PRC",
     	"Bob Smith": "NS2B",
 		"Danny Patweesnk": "PA2SNK / NL2SNE",
 		"David Westphalen": "N4DLT",
@@ -30,7 +30,7 @@
 		"Pasqual Dijkstra": "PD1PD / NL2LMP",
 		"Ran Dy": "PH4X",
 		"Rick Waterfield": "N1RCW",
-		"Rinse Pasma": "NL1RPS",
+		"Rinse Pasma": "PD2RPS / CB0RPS",
 		"Ronnie Van Der Veen": "PD4RV / NL0RVW",
 		"Scott Haley": "KD5NJR",
 		"Seth O'Neal": "KF4LLF",
