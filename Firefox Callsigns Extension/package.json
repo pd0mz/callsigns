@@ -1,0 +1,16 @@
+{
+  "title": "Packet Radio Callsigns Database",
+  "name": "callsigns",
+  "version": "1.0.1",
+  "description": "Displays the callsign of Packet Radio operators on Facebook.",
+  "main": "lib/main.js",
+  "author": "Wijnand Modderman-Lenstra",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Packet Radio Callsigns Database",
+    "description": "Displays the callsign of Packet Radio operators on Facebook.",
+    "version": "1.1",
+    "content_scripts": [
+        {
+          "matches": ["https://www.facebook.com/*"],
+          "js": ["js/callsigns.js"],
+          "run_at": "document_end"
+        }
+    ]
+}

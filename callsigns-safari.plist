@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Extension Updates</key>
+    <array>
+        <dict>
+            <key>CFBundleIdentifier</key>
+            <string>nl.ax25.callsigns</string>
+            <key>Developer Identifier</key>
+            <string>0000000000</string>
+            <key>CFBundleVersion</key>
+            <string>7</string>
+            <key>CFBundleShortVersionString</key>
+            <string>1.1</string>
+            <key>URL</key>
+            <string>http://pd0mz.github.io/callsigns/builds/Callsigns.safariextz</string>
+        </dict>
+    </array>
+</dict>
+</plist>
