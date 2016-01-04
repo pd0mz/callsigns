@@ -51,5 +51,5 @@ to upload and sign extensions. If you really want to have a signed version,
 See [LICENSE.md](LICENSE.md).
 
 [Callsigns.crx]: http://pd0mz.github.io/callsigns/build/Callsigns.crx
-[Callsigns.xpi]: http://pd0mz.github.io/callsigns/build/Callsigns.xpi
+[Callsigns.xpi]: http://pd0mz.github.io/callsigns/build/@callsigns-1.0.1.xpi
 [Callsigns.safariextz]: http://pd0mz.github.io/callsigns/build/Callsigns.safariextz
