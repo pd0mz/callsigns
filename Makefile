@@ -13,7 +13,7 @@ build-crx:
 
 build-xpi:
 	(cd "Firefox Callsigns Extension"; ../node_modules/jpm/bin/jpm xpi; mv *.xpi ../build/)
-	(cd build/; ln -s $$(ls -1t *.xpi | tail -n 1) Callsigns.xpi)
+	(cd build/; ln -sf $$(ls -1t *.xpi | tail -n 1) Callsigns.xpi)
 
 build-xar:
 	xar -czf build/Callsigns.safariextz Callsigns.safariextension

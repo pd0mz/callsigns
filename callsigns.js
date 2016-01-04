@@ -7,7 +7,7 @@
 		"André Hulsbergen": "PD2ATG",
     	"Ascal Cardio": "NL2PRC",
     	"Bob Smith": "NS2B",
-		"Danny Patweesnk": "PA2SNK / NL2SNE",
+		"Danny Patweesnk": "PA2SNK / CB2SNK",
 		"David Westphalen": "N4DLT",
 		"David Wray": "KB4HJQ",
 		"Denise Wray": "KB3HJQ",
