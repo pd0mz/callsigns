@@ -5,6 +5,7 @@
     callsigns = {
         "Ale Stegenga": "PD1ANS",
         "André Hulsbergen": "PD2ATG",
+        "Angela Scholder": "PE1BIV / M1SCH",
         "Ap E. Kop": "PD4U / NL1APE",
         "Ascal Cardio": "NL2PRC",
         "Bob Smith": "NS2B",
@@ -20,6 +21,7 @@
         "Frank van der Knoop": "PD3F / NL1FVK",
         "Gerrit Vinke": "PA3DWC",
         "Han Sytsma": "PE1FAM",
+        "Henk-Jan Berghorst": "PH1JB",
         "Jean Létourneau": "VE2PKT",
         "Joe Rogers": "KE4SZT",
         "Joe Schoebel": "KD9CJX",
